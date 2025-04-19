@@ -1,7 +1,5 @@
 # Multimodal Open Source LLM Based Chat App
 
-##### Note: This project is inspired by [@Leon-Sander](https://github.com/Leon-Sander/local_multimodal_ai_chat), to find a more deatiled project and upto date changes, check out his repository. You can also post issues, if you encounter any.
-
 ## Tasks
 
 ##### Following are the subtasks that were done in this project
